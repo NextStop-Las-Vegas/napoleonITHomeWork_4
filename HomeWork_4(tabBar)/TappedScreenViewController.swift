@@ -15,7 +15,7 @@ class TappedScreenViewController: UIViewController {
       let controller = storyboard.instantiateViewController(identifier: "ProgrammButtonVC") as ProgrammButtonVC
         controller.viewControllerText = someText.text ?? "bad gateway"
         self.navigationController?.pushViewController(controller, animated: true)
-        
+        print("master")
     }
 }
 
