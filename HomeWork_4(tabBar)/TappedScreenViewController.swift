@@ -16,6 +16,11 @@ class TappedScreenViewController: UIViewController {
         controller.viewControllerText = someText.text ?? "bad gateway"
         self.navigationController?.pushViewController(controller, animated: true)
         print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+
     }
 }
 
