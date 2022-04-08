@@ -35,6 +35,12 @@ class ThirdViewController: UIViewController {
         super.viewDidLoad()
         squareView.addGestureRecognizer(FirstTapGestureRecognizer)
         thirdView.addGestureRecognizer(SecondTapGestureRecognizer)
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
 
     }
     
