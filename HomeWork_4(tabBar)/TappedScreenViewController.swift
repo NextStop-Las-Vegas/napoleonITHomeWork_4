@@ -20,6 +20,20 @@ class TappedScreenViewController: UIViewController {
         print("master")
         print("master")
         print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
+        print("master")
 
     }
 }
