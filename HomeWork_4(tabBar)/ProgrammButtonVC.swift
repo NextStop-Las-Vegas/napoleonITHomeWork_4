@@ -27,6 +27,10 @@ class ProgrammButtonVC: UIViewController {
             labelLeadingSpaceConstraint.constant = 107
         }else{
             labelLeadingSpaceConstraint.constant = 10
+            print("master")
+            print("master")
+            print("master")
+
         }
         
         UIView.animate(withDuration: 2, delay: 0.2, usingSpringWithDamping: 0.3, initialSpringVelocity: 0, options: .transitionCurlUp, animations: self.view.layoutIfNeeded)
